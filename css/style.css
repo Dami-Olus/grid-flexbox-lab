@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Helvetica;
+  background-color: rgb(42,93,95);
+}
+
+
+bg - 42,93,95
+call - 130,206,144
+chat - 116,186,129
+drkgry - 243,243,243
+lightgry - 255,255,255
+
