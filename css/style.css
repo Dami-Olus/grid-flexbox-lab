@@ -72,6 +72,12 @@ img {
   
 }
 
+.left {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+
 
 bg - 42,93,95
 call - 130,206,144
