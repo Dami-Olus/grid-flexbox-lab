@@ -33,6 +33,7 @@ main {
 .horizontal {
   background-color: rgb(255,255,255);
   display: flex;
+  width: 600px;
 }
 
 .rating {
@@ -46,6 +47,10 @@ img {
   width: 6rem;
   border: 3px solid rgb(116,186,129);
   margin: 10px auto;
+}
+
+.image{
+  padding: 20px 20px;
 }
 
 .contact {
@@ -76,6 +81,10 @@ img {
 display: flex;
 flex-direction: column;
 justify-content: space-between;
+}
+
+.right {
+  background-color: rgb(243,243,243);
 }
 
 
